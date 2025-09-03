@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question": "What does CPU stand for?",
+      "options": ["Central Process Unit", "Central Processing Unit", "Computer Personal Unit", "Control Processing Unit"],
+      "correctAnswer": "Central Processing Unit"
+    },
+    {
+      "question": "Which language is known as the mother of all programming languages?",
+      "options": ["Python", "C", "Java", "Assembly"],
+      "correctAnswer": "C"
+    },
+    {
+      "question": "Which company developed the Windows operating system?",
+      "options": ["Apple", "Microsoft", "Google", "IBM"],
+      "correctAnswer": "Microsoft"
+    },
+    {
+      "question": "In binary, what number comes after 1?",
+      "options": ["10", "2", "11", "01"],
+      "correctAnswer": "10"
+    },
+    {
+      "question": "Which programming language is primarily used for Android app development?",
+      "options": ["Java", "Swift", "Python", "C++"],
+      "correctAnswer": "Java"
+    },
+    {
+      "question": "What does HTML stand for?",
+      "options": ["Hyper Trainer Marking Language", "Hyper Text Markup Language", "Hyper Text Markdown Language", "High Text Machine Language"],
+      "correctAnswer": "Hyper Text Markup Language"
+    },
+    {
+      "question": "What is the file extension of a Python file?",
+      "options": [".py", ".java", ".cpp", ".exe"],
+      "correctAnswer": ".py"
+    },
+    {
+      "question": "Which data structure works on FIFO principle?",
+      "options": ["Stack", "Queue", "Array", "Tree"],
+      "correctAnswer": "Queue"
+    },
+    {
+      "question": "Which of these is an operating system?",
+      "options": ["Linux", "Oracle", "MySQL", "Python"],
+      "correctAnswer": "Linux"
+    },
+    {
+      "question": "Who is known as the father of the computer?",
+      "options": ["Charles Babbage", "Alan Turing", "Bill Gates", "Steve Jobs"],
+      "correctAnswer": "Charles Babbage"
+    }
+  ]
+}

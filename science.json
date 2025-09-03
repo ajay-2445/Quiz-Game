@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question": "What is the powerhouse of the cell?",
+      "options": ["Nucleus", "Mitochondria", "Ribosome", "Golgi body"],
+      "correctAnswer": "Mitochondria"
+    },
+    {
+      "question": "What is the chemical symbol for Gold?",
+      "options": ["Ag", "Au", "Gd", "Pt"],
+      "correctAnswer": "Au"
+    },
+    {
+      "question": "Which planet has the most moons?",
+      "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+      "correctAnswer": "Saturn"
+    },
+    {
+      "question": "What gas do plants release during photosynthesis?",
+      "options": ["Carbon Dioxide", "Oxygen", "Nitrogen", "Methane"],
+      "correctAnswer": "Oxygen"
+    },
+    {
+      "question": "What is the speed of light?",
+      "options": ["300,000 km/s", "150,000 km/s", "30,000 km/s", "3,000 km/s"],
+      "correctAnswer": "300,000 km/s"
+    },
+    {
+      "question": "Which part of the human body controls balance?",
+      "options": ["Eyes", "Brain", "Inner Ear", "Spinal Cord"],
+      "correctAnswer": "Inner Ear"
+    },
+    {
+      "question": "Which element has the chemical symbol 'O'?",
+      "options": ["Osmium", "Oxygen", "Oganesson", "Oxide"],
+      "correctAnswer": "Oxygen"
+    },
+    {
+      "question": "What is the hardest natural substance on Earth?",
+      "options": ["Iron", "Diamond", "Gold", "Quartz"],
+      "correctAnswer": "Diamond"
+    },
+    {
+      "question": "Which scientist proposed the theory of relativity?",
+      "options": ["Newton", "Einstein", "Tesla", "Galileo"],
+      "correctAnswer": "Einstein"
+    },
+    {
+      "question": "How many bones are in the adult human body?",
+      "options": ["206", "210", "201", "220"],
+      "correctAnswer": "206"
+    }
+  ]
+}

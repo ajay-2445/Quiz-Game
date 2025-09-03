@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital city of Japan?",
+      "options": ["Beijing", "Tokyo", "Seoul", "Bangkok"],
+      "correctAnswer": "Tokyo"
+    },
+    {
+      "question": "Who wrote the play 'Romeo and Juliet'?",
+      "options": ["Shakespeare", "Charles Dickens", "Homer", "Mark Twain"],
+      "correctAnswer": "Shakespeare"
+    },
+    {
+      "question": "Which is the largest continent by area?",
+      "options": ["Africa", "Asia", "North America", "Europe"],
+      "correctAnswer": "Asia"
+    },
+    {
+      "question": "In which year did World War II end?",
+      "options": ["1945", "1939", "1918", "1965"],
+      "correctAnswer": "1945"
+    },
+    {
+      "question": "Which currency is used in the United Kingdom?",
+      "options": ["Dollar", "Euro", "Pound Sterling", "Yen"],
+      "correctAnswer": "Pound Sterling"
+    },
+    {
+      "question": "The Great Wall of China is located in which country?",
+      "options": ["India", "China", "Japan", "Mongolia"],
+      "correctAnswer": "China"
+    },
+    {
+      "question": "Mount Everest is located in which mountain range?",
+      "options": ["Andes", "Himalayas", "Alps", "Rockies"],
+      "correctAnswer": "Himalayas"
+    },
+    {
+      "question": "Which is the smallest country in the world?",
+      "options": ["Vatican City", "Monaco", "San Marino", "Malta"],
+      "correctAnswer": "Vatican City"
+    },
+    {
+      "question": "Who was the first President of the United States?",
+      "options": ["Abraham Lincoln", "George Washington", "Thomas Jefferson", "John Adams"],
+      "correctAnswer": "George Washington"
+    },
+    {
+      "question": "Which ocean is the largest by surface area?",
+      "options": ["Atlantic", "Pacific", "Indian", "Arctic"],
+      "correctAnswer": "Pacific"
+    }
+  ]
+}
